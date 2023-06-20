@@ -6,4 +6,4 @@ The Notes App-<br>
   3.It also cantains feature to edit the previously added notes.<br>
   4.Time when the notes is added is also displayed.<br>
   5.It also contains signin,signout which are built by firebase.<br>
-DEMO LINK: 
+DEMO LINK: https://swamypulaparthi.github.io/notesapp/
